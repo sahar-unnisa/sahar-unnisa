@@ -22,7 +22,6 @@
 - ✨ Working and Contributing @ DocuSign;
 - :fire: Interested in Test Automaiton and Exploratory testing;
 - :calendar: Looking for contributing to Java and JavaScript based test automation projects.
-- 📝 Checkout my [Resume](./resume/resume.pdf).
 
 ## Technologies I work with:
 
